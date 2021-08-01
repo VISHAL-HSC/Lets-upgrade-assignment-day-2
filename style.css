@@ -1,0 +1,32 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+  background-image: url('image1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#logo{
+  background-color: rgba(230,230,230,0.3);
+  color: rgba(20,20,20,.7);
+  font-size: 55px;
+  text-align: center;
+  margin: 30px;
+  padding: 5px;
+  letter-spacing: 2px;
+}
+
+.list_el{
+  padding: 10px;
+  font-size:20px;
+  color: rgba(240,240,240,0.9);
+  
+}
+
+img{
+  width: 105px;
+  height: 120px;
+  margin: 5px;
+}
